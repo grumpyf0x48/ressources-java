@@ -21,6 +21,7 @@ Les cours de [José Paumard](http://www.twitter.com/JosePaumard) et [Sander Mak]
 ### Sites d'Oracle et du JDK
 
 * [JDK Documentation](https://docs.oracle.com/en/java/javase/17/) La doc de Java, la JVM, les outils ...
+* [Tutorials](https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html)
 * [Javadoc](https://docs.oracle.com/en/java/javase/17/docs/api/) La doc des APIs Java
 * [dev.java](https://dev.java/)
 * [Bases du langage](https://dev.java/learn/language-basics/)
@@ -40,6 +41,6 @@ Les cours de [José Paumard](http://www.twitter.com/JosePaumard) et [Sander Mak]
 ## Installer
 
 * [SDKMan](https://sdkman.io/) Installer le JDK, JBang, Gradle, Maven ...
-* [JDK](https://jdk.java.net/archive/) JDK jusqu'à la version 17
-* [JDK](https://jdk.java.net/21/) 21
+* [Les JDK](https://jdk.java.net/archive/) jusqu'à la version 20
+* [Le JDK](https://jdk.java.net/21/) 21
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/download/)
