@@ -1,8 +1,8 @@
 # Ressources Java
 
-Liens sur le langage Java.
+Liens sur le langage Java et Spring.
 
-## Apprendre
+## Apprendre Java
 
 ### Cours
 
@@ -32,15 +32,23 @@ Les cours de [José Paumard](http://www.twitter.com/JosePaumard) et [Sander Mak]
 
 * [Java Code Geeks](https://www.javacodegeeks.com/)
 
-## Tester
+## Tester Java
 
 * [The Java Playground](https://dev.java/playground/) de dev.java
 * [JBang](https://www.jbang.dev/) Développer et tester un programme très rapidement
 * [JShell](https://www.jmdoudoux.fr/java/dej/chap-jshell.htm) Un REPL (Read-Eval-Print-Loop) pour Java
 
-## Installer
+## Installer Java
 
 * [SDKMan](https://sdkman.io/) Installer le JDK, JBang, Gradle, Maven ...
 * [Les JDK](https://jdk.java.net/archive/) jusqu'à la version 20
 * [Le JDK](https://jdk.java.net/21/) 21
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/download/)
+
+## Apprendre Spring et Spring Boot
+
+* [Spring Initializer](https://start.spring.io/) Démarrer un projet avec Spring
+* [Spring Guides](https://spring.io/guides) Les guides pour démarrer avec Spring
+* [Common Application Properties](https://docs.spring.io/spring-boot/docs/current/reference/html/application-properties.html) Configurer votre application Spring (application.yml)
+* [Tutorial](https://github.com/BNYMellon/spring-kata/tree/main) sur Spring et Spring Boot
+* [Cours](https://spring.academy/courses) de Spring Academy
